@@ -1,0 +1,8 @@
+1. visibilidade de dados
+
+antes da venda
+qto vja vende
+
+gmv/sku
+tamanho do estoque dos itens top 10
+ticket medio e profundidade de estoque

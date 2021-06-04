@@ -1,0 +1,5 @@
+.\venv\Scripts\activate.bat
+
+pip install pandas_profiling
+
+

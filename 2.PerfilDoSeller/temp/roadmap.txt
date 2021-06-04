@@ -1,0 +1,42 @@
+status - ready, documentation
+plant_type = smal, lite, mid, brand...
+signup_origin - self, ...
+ds_behavior_profile =  aguia, tubarao, ...
+persona = adriando, carla, ...
+status on off = aguia, lobo, gato, ...
+
+
+MARKETING shareing 
+HISTORICO GMV
+HISTORICO TEMPO
+DINAMICA DO SELLER / PORTFOLIO
+
+ticket medio
+gmv/dias olist
+ticket medio e gmv **************************************
+
+
+gmv
+categoria
+tempo na categoria
+marketing sharing
+
+
+
+city
+state
+created_at
+distinct_sku
+
+match prodt curve a
+main category slug
+main amount category
+
+faturamento/categoria
+---------------------------------------------------------------------------------
+Matheus Simões Brenny15:11
+show!
+Então pra reforçar: SMB = Faturamento Total abaixo de 200k/mês. 
+MID: Faturamento acima de 200k/mês
+---------------------------------------------------------------------------------
+

@@ -1,0 +1,19 @@
+ticke medio
+ids
+gmv/dias olist
+
+
+quantos canais opera
+on line / off
+integração
+tamanho do portfolio
+sku (pool ou não)
+top produtos por categoria
+ticket medio
+mid (acima de 200 mil)
+região (coleta ou não)
+perfil varias lojas fisicas (dificil conversão) / já tem e-commerce
+
+melhor dash:
+1. que categoria deve atacar (sazonalidade?)
+2. trazer o sku especifico da categoria
